@@ -1,0 +1,11 @@
+P{
+    column-count: 3;
+
+}
+*{
+    background-color: burlywood;
+}
+H1:hover{
+    color: blue;
+    
+}
