@@ -1,0 +1,12 @@
+P{
+    background-color: red;
+    border: ; width: 200px;
+    border: ; height: 200px;
+    margin: 200px;
+    outline: dotted; color: greenyellow;
+    outline-width: 20px;
+}
+p:hover{
+    outline: dotted; color: rgb(107, 41, 186);
+    outline-width: 40px;
+}
