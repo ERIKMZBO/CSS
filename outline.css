@@ -9,4 +9,5 @@ P{
 p:hover{
     outline: dotted; color: rgb(107, 41, 186);
     outline-width: 40px;
+    display: ;
 }
