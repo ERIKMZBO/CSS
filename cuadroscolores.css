@@ -1,0 +1,38 @@
+*{margin: 0px;}
+
+
+.rojo{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+    float: right;
+}
+
+.azul{
+    background-color: blue;
+    width: 100%;
+    height: 30px;
+    float: right;
+}
+
+.rosa{
+    background-color: darksalmon;
+    width: 60%;
+    height: 500px;
+    float: left;
+}
+
+.morado{
+    background-color: mediumpurple;
+    width: 37%;
+    height: 500px;
+    float: right;
+}
+
+.verde{
+    background-color: chartreuse;
+    width: 100%;
+    height: 30px;
+    float: left;
+
+}

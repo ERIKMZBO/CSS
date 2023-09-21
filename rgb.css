@@ -1,0 +1,63 @@
+*{
+    margin: 10px;
+}
+
+
+ div{
+    width: 30px;
+    height: 30px;
+    border-style: solid;
+    border-radius: 50%;
+    margin-right: 20px;
+    float: left;
+    
+
+ }
+
+
+section{
+    padding-bottom: 120px;
+    
+    
+    
+}
+
+p {
+   float: left;
+   position: relative;
+   top: 10px;
+   left: -10px;
+    
+}
+
+h2{
+    padding-left:px;
+    padding-bottom: 30px;
+}
+
+
+
+main{
+    padding-left: 0;
+}
+
+.section1 div {
+margin-right: 45px;
+}
+
+main{
+    padding-left: 35%;
+    padding-top: 10%;
+}
+
+.color_red{background-color: red;}
+
+.color_green{background-color: green;}
+
+.color_blue{background-color: blue;}
+
+.color_yellow{background-color: yellow;}
+
+.color_purple{background-color: purple;}
+
+.color_sky{background-color: skyblue;}
