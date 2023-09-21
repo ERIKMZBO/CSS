@@ -1,0 +1,54 @@
+main{
+    padding-left: 20%;
+}
+
+@media (max-width: 320px) {
+
+.naranja{
+    background-color: orange;
+    width: 100vw;
+    height: 5vh;
+    margin-bottom: 2px;
+}
+
+.amarillo{
+    background-color: yellow;
+    width: 100vw;
+    height: 10vh;
+    margin-bottom: 2px;
+}
+
+.azul{
+    background-color: blue;
+    width: 100vw;
+    height: 25vh;
+    margin: 2px;
+
+}
+.gris{
+    background-color: grey;
+    width: 100vw;
+    height: 5vh;
+}
+}
+
+@media (max-width: 768px){
+ 
+.naranja{
+        background-color: orange;
+        width: 100vw;
+        height: 5vh;
+        margin-bottom: 2px;
+}
+.amarillo{
+    background-color: yellow;
+    width: 100vw;
+    height: 20vh;
+    margin-bottom: 2px;
+}
+
+.azul{
+    background-color: blue;
+    width: 100vw;
+    height: 15vh;
+    margin: 2px;
