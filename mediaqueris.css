@@ -2,7 +2,7 @@ main{
     padding-left: 20%;
 }
 
-@media (max-width: 320px) {
+@media (min-width: 320px) {
 
 .naranja{
     background-color: orange;
